@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		6570A718256372760035E934 /* AddTesdDev.m in Sources */ = {isa = PBXBuildFile; fileRef = 6570A717256372760035E934 /* AddTesdDev.m */; };
 		6570A71C256372F30035E934 /* addTeemo.m in Sources */ = {isa = PBXBuildFile; fileRef = 6570A71B256372F30035E934 /* addTeemo.m */; };
+		6570A720256373090035E934 /* addTeemo2.m in Sources */ = {isa = PBXBuildFile; fileRef = 6570A71F256373090035E934 /* addTeemo2.m */; };
 		6585403324DAAE6B00BB41A4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6585403224DAAE6B00BB41A4 /* AppDelegate.m */; };
 		6585403624DAAE6B00BB41A4 /* SceneDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 6585403524DAAE6B00BB41A4 /* SceneDelegate.m */; };
 		6585403924DAAE6B00BB41A4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 6585403824DAAE6B00BB41A4 /* ViewController.m */; };
@@ -39,6 +40,8 @@
 		6570A717256372760035E934 /* AddTesdDev.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AddTesdDev.m; sourceTree = "<group>"; };
 		6570A71A256372F30035E934 /* addTeemo.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = addTeemo.h; sourceTree = "<group>"; };
 		6570A71B256372F30035E934 /* addTeemo.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = addTeemo.m; sourceTree = "<group>"; };
+		6570A71E256373090035E934 /* addTeemo2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = addTeemo2.h; sourceTree = "<group>"; };
+		6570A71F256373090035E934 /* addTeemo2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = addTeemo2.m; sourceTree = "<group>"; };
 		6585402E24DAAE6B00BB41A4 /* teset1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = teset1.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6585403124DAAE6B00BB41A4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		6585403224DAAE6B00BB41A4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -93,6 +96,8 @@
 				6570A717256372760035E934 /* AddTesdDev.m */,
 				6570A71A256372F30035E934 /* addTeemo.h */,
 				6570A71B256372F30035E934 /* addTeemo.m */,
+				6570A71E256373090035E934 /* addTeemo2.h */,
+				6570A71F256373090035E934 /* addTeemo2.m */,
 				6585403A24DAAE6B00BB41A4 /* Main.storyboard */,
 				6585403D24DAAE6D00BB41A4 /* Assets.xcassets */,
 				6585403F24DAAE6D00BB41A4 /* LaunchScreen.storyboard */,
@@ -174,6 +179,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6570A71C256372F30035E934 /* addTeemo.m in Sources */,
+				6570A720256373090035E934 /* addTeemo2.m in Sources */,
 				6585403924DAAE6B00BB41A4 /* ViewController.m in Sources */,
 				6585403324DAAE6B00BB41A4 /* AppDelegate.m in Sources */,
 				6585404424DAAE6D00BB41A4 /* main.m in Sources */,
